@@ -1,0 +1,26 @@
+
+#logo{
+    width: 80px;
+    height: auto;
+}
+.but{
+    border-radius: 47px;
+    border: 2px solid rgba(41, 142, 58, 0.71);
+    background-color: #FBFDFF;
+    padding: 10px 30px;
+    margin: 5px;
+}
+
+.but a{
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+}
+.but:hover {
+    border: 2px solid #FBFDFF;
+    background-color: rgba(41, 142, 58, 0.71);
+}
+
+.but:hover a{
+    color: #FBFDFF;
+}
